@@ -1,30 +1,29 @@
-# 우리FISA 3기 코테스터디
-기간: 2024.07.19 ~ 2024.12.18
+# Woori FIS Academy 3rd cohort - Python Algorithm Study
+Study Term: 2024.07.19 ~ 2024.12.18
 
 <br />
 
-## ✏️ 사용 언어
+## ✏️ Programming Language
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 <br />
 
 ## 📚 스터디 진행 방식
-- 날짜: 월, 수, 금 
+- 날짜: 월, 수
 - 장소: 상암동 Class4 
 - 시간: 18:00 ~ 19:00
 - 오프라인 회의로 코드 리뷰 진행
-- 취업시 탈퇴 가능
 
 <br />
 
 ## 📚 진행상황
-|  | 선민 | 창영 | 혜민 | 하영 |
+|  | 창영 | 혜민 | 동미 |
 | --- | --- | --- | --- | --- |
-| 1주차 | Lv.0 48문제 | Lv.2 2문제 | Lv.0 25문제 | --- |
-| 2주차 | Lv.0, 1 57문제 | Lv.2 4문제 | Lv.0 25문제 | --- |
-| 3주차 | Lv.0, 1 36문제 | Lv.1, 2 4문제 | Lv.0 25문제 | --- |
-| 4주차 | Lv.0, 1 36문제 | Lv.2 4문제 | Lv.0 25문제 | --- |
-| 5주차 | Lv.0, 1 35문제 | Lv.2 5문제 | Lv.0 25문제 | --- |
+| 1주차 | Lv.2 2문제 | Lv.0 25문제 | --- |
+| 2주차 | Lv.2 4문제 | Lv.0 25문제 | --- |
+| 3주차 | Lv.1, 2 4문제 | Lv.0 25문제 | --- |
+| 4주차 | Lv.2 4문제 | Lv.0 25문제 | --- |
+| 5주차 | Lv.2 5문제 | Lv.0 25문제 | --- |
 
 <br />
 
@@ -51,12 +50,10 @@
   <tr>
     <td height="140px" align="center"> <a href="https://github.com/HyeminKim-kr"> <img src="https://avatars.githubusercontent.com/u/58822591?v=4" width="140px" />
       <br /> 김혜민</a></td>
-    <td height="140px" align="center"> <a href="https://github.com/seonmin5"> <img src="https://avatars.githubusercontent.com/u/82851869?v=4" width="140px" />
-      <br /> 오선민</a></td>
     <td height="140px" align="center"> <a href="https://github.com/kimchang0"> <img src="https://avatars.githubusercontent.com/u/64997303?v=4" width="140px" />
       <br /> 김창영</a></td>
-    <td height="140px" align="center"> <a href="https://github.com/summmer12126"> <img src="https://avatars.githubusercontent.com/u/174290672?v=4" width="140px" />
-      <br /> 이하영</a></td>
+    <td height="140px" align="center"> <a href="https://github.com/"> <img src="https://avatars.githubusercontent.com/u/174290672?v=4" width="140px" />
+      <br /> 함동미</a></td>
   </tr>
 </table>
 
