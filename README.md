@@ -1,14 +1,3 @@
-## 📚 진행상황
-| 주차  | 창영           | 혜민           | 동미 |
-| ----- | -------------- | -------------- | ---- |
-| 1주차 | Lv.2 2문제    | Lv.0 25문제    | ---  |
-| 2주차 | Lv.2 4문제    | Lv.0 25문제    | ---  |
-| 3주차 | Lv.1, 2 4문제 | Lv.0 25문제    | ---  |
-| 4주차 | Lv.2 4문제    | Lv.0 25문제    | ---  |
-| 5주차 | Lv.2 5문제    | Lv.0 25문제    | ---  |
-| 6주차 | Lv.2 4문제    | Lv.0 25문제    | ---  |
-| 7주차 | Lv.2 2문제    | Lv.0 26문제    | Lv.0 25문제   |
-| 8주차 | Lv.2 문제    | Lv.0 문제    | Lv.0 문제  |
 
 # Woori FIS Academy - Python Algorithm Study
 Study Term: 2024.07.19 - 2024.12.18
@@ -27,21 +16,19 @@ Study Term: 2024.07.19 - 2024.12.18
 - Time: 18:00 ~ 19:00
 - Offline meetings for code reviews
 
-
 <br />
 
-## 📚 Progress
-
-Week	Changyoung	Hyemin	Dongmi
-1st	Lv.2, 2 problems	Lv.0, 25 problems	---
-2nd	Lv.2, 4 problems	Lv.0, 25 problems	---
-3rd	Lv.1, 2, 4 problems	Lv.0, 25 problems	---
-4th	Lv.2, 4 problems	Lv.0, 25 problems	---
-5th	Lv.2, 5 problems	Lv.0, 25 problems	---
-6th	Lv.2, 4 problems	Lv.0, 25 problems	---
-7th	Lv.2, 2 problems	Lv.0, 26 problems	Lv.0, 25 problems
-8th	Lv.2 problems	Lv.0 problems	Lv.0 problems
-Let me know if you'd like to make any other adjustments!
+## 📚 진행상황
+| **Week** | **Changyoung**  | **Hyemin**  | **Dongmi**  |
+|----------|------------------|--------------|--------------|
+| 1st      | Lv.2, 2 problems  | Lv.0, 25 problems | ---  |
+| 2nd      | Lv.2, 4 problems  | Lv.0, 25 problems | ---  |
+| 3rd      | Lv.1, 2, 4 problems | Lv.0, 25 problems | ---  |
+| 4th      | Lv.2, 4 problems  | Lv.0, 25 problems | ---  |
+| 5th      | Lv.2, 5 problems  | Lv.0, 25 problems | ---  |
+| 6th      | Lv.2, 4 problems  | Lv.0, 25 problems | ---  |
+| 7th      | Lv.2, 2 problems  | Lv.0, 26 problems | Lv.0, 25 problems |
+| 8th      | Lv.2 problems     | Lv.0 problems | Lv.0 problems |
 
 <br />
 
