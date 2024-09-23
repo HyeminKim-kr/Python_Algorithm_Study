@@ -1,22 +1,3 @@
-# Woori FIS Academy - Python Algorithm Study
-Study Term: 2024.07.19 ~ 2024.12.18
-
-<br />
-
-## ✏️ Programming Language
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<br />
-
-## 📚 스터디 진행 방식
-- 날짜: 월, 수
-- 장소: 상암동 Class4 
-- 시간: 18:00 ~ 19:00
-- 오프라인 회의로 코드 리뷰 진행
-
-
-<br />
-
 ## 📚 진행상황
 | 주차  | 창영           | 혜민           | 동미 |
 | ----- | -------------- | -------------- | ---- |
@@ -28,6 +9,39 @@ Study Term: 2024.07.19 ~ 2024.12.18
 | 6주차 | Lv.2 4문제    | Lv.0 25문제    | ---  |
 | 7주차 | Lv.2 2문제    | Lv.0 26문제    | Lv.0 25문제   |
 | 8주차 | Lv.2 문제    | Lv.0 문제    | Lv.0 문제  |
+
+# Woori FIS Academy - Python Algorithm Study
+Study Term: 2024.07.19 - 2024.12.18
+
+<br />
+
+## ✏️ Programming Language: Python
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<br />
+
+## 📚 Study Method
+
+- Date: Monday, Wednesday
+- Location: Sangam-dong, Class 4
+- Time: 18:00 ~ 19:00
+- Offline meetings for code reviews
+
+
+<br />
+
+## 📚 Progress
+
+Week	Changyoung	Hyemin	Dongmi
+1st	Lv.2, 2 problems	Lv.0, 25 problems	---
+2nd	Lv.2, 4 problems	Lv.0, 25 problems	---
+3rd	Lv.1, 2, 4 problems	Lv.0, 25 problems	---
+4th	Lv.2, 4 problems	Lv.0, 25 problems	---
+5th	Lv.2, 5 problems	Lv.0, 25 problems	---
+6th	Lv.2, 4 problems	Lv.0, 25 problems	---
+7th	Lv.2, 2 problems	Lv.0, 26 problems	Lv.0, 25 problems
+8th	Lv.2 problems	Lv.0 problems	Lv.0 problems
+Let me know if you'd like to make any other adjustments!
 
 <br />
 
