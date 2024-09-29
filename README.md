@@ -28,7 +28,7 @@ Study Term: 2024.07.19 - 2024.12.18
 | 5th      | Lv.2, 5 problems  | Lv.0, 25 problems | ---  |
 | 6th      | Lv.2, 4 problems  | Lv.0, 25 problems | ---  |
 | 7th      | Lv.2, 2 problems  | Lv.0, 26 problems | Lv.0, 25 problems |
-| 8th      | Lv.2 problems     | Lv.0 problems | Lv.0 problems |
+| 8th      | Lv.2, 0 problems  | Lv.0, 25 problems | Lv.0, 25 problems |
 
 <br />
 
